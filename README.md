@@ -40,8 +40,8 @@ To compile and run these programs, you will need a C compiler installed on your 
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/your-username/your-repository-name.git](https://github.com/your-username/your-repository-name.git)
-    cd your-repository-name
+    git clone [https://github.com/DEMiHAT/data-structures-fundamentals](https://github.com/DEMiHAT/data-structures-fundamentals)
+    cd data-structures-fundamentals
     ```
 
 2.  **Compile a program:**
